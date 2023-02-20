@@ -1,4 +1,4 @@
-/*google font link */
+/*google font linked */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;700;800;900&display=swap');
 
 /* commmon and utilites */
@@ -15,6 +15,7 @@ h1 {
     color: #FFFFFF;
 }
 
+/* button of website */
 button {
     background: #E02C6D;
     padding: 10px 24px;
@@ -47,7 +48,7 @@ header {
     width: 1163px;
 }
 
-
+/* menu of website */
 .banner-menu {
     display: flex;
     justify-content: space-between;
@@ -71,6 +72,8 @@ header {
     text-decoration: none;
 }
 
+
+/* banner details */
 .copa-america {
     display: flex;
     justify-content: space-between;
